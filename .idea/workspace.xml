@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbef492d-373c-42db-9c2f-31ae3eded13c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/LUK-qianliu/miaosha.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xfVNiX0ZNc64x2GZHKli03yNrr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Miaosha1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="miaosha2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qianliu.demo.Miaosha1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbef492d-373c-42db-9c2f-31ae3eded13c" name="Default Changelist" comment="" />
+      <created>1630746092109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630746092109</updated>
+      <workItem from="1630746101502" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="24" key="CommitChangelistDialog2" timestamp="1630745699741">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="371" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1630745699741" />
+    <state x="146" y="74" key="DiffContextDialog" timestamp="1630745785262">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="146" y="74" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1630745785262" />
+    <state x="548" y="173" key="FileChooserDialogImpl" timestamp="1630746429925">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1630746429925" />
+    <state x="407" y="129" key="NewModule_or_Project.wizard" timestamp="1630745397906">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="407" y="129" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1630745397906" />
+    <state x="554" y="142" key="RollbackChangesDialog" timestamp="1630745786946">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="554" y="142" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1630745786946" />
+    <state x="248" y="6" key="SettingsEditor" timestamp="1630745457567">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="248" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1630745457567" />
+    <state x="613" y="347" key="VCS.ChangelistChooser" timestamp="1630745491728">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="613" y="347" key="VCS.ChangelistChooser/0.0.1536.864@0.0.1536.864" timestamp="1630745491728" />
+    <state x="360" y="0" key="Vcs.Push.Dialog.v2" timestamp="1630745807830">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="360" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1630745807830" />
+    <state x="447" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1630746105411">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="447" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1630746105411" />
+    <state x="571" y="332" key="git4idea.ui.GitStashDialog" timestamp="1630745987868">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="571" y="332" key="git4idea.ui.GitStashDialog/0.0.1536.864@0.0.1536.864" timestamp="1630745987868" />
+    <state x="598" y="223" key="svn.repositoryBrowser" timestamp="1630746423531">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="598" y="223" key="svn.repositoryBrowser/0.0.1536.864@0.0.1536.864" timestamp="1630746423531" />
+  </component>
+</project>
